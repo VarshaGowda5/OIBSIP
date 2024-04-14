@@ -1,0 +1,81 @@
+body {
+  background-color: #000;
+  font-family: Arial, sans-serif;
+}
+
+.tribute-page {
+  color: #fff;
+  margin: 0 auto;
+  padding: 2rem;
+  max-width: 1200px;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 2rem;		
+}
+text.title {
+ font-size: 2;
+  margin:0;
+}
+
+.subtitle{	
+  font-size:1.2	;
+  margin: 0;
+}
+
+		
+.main-content{
+ display:grid;
+		}
+		
+.sectionli {
+  margin-bottom: 2;
+}	
+
+.section-title {		
+ font-size:1;
+}
+
+body {
+ section-text background- {
+ color: #000 ;
+ margin: 0;
+ }
+ }
+
+ 
+.section {
+  margin-bottom: 2rem;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.section-text {
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.achievements-list {
+  list-style: none;
+  padding: 0;
+}
+
+.achievements-item {
+  background-color: #222;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.achievements-text {
+  font-size: 1.2rem;
+  margin: 0;
+}
